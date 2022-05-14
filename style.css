@@ -5,7 +5,7 @@
 /* nav */
 .background {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(login.png);
+    url(image/login.png);
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -195,7 +195,7 @@ h4 {
 
 /* login */
 .login {
-  background-image: url(login.png);
+  background-image: url(image/login.png);
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -211,7 +211,7 @@ h4 {
 
 .login-form {
   background-color: #111;
-  padding: 200px 100px;
+  padding: 150px 100px;
   opacity: 0.8;
 }
 
